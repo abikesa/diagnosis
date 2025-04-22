@@ -45,3 +45,4 @@ Our symbols compress epistemic states:
 # flick 20250422013705-T5Ep
 # flick 20250422015111-K56d
 # flick 20250422021952-zX8a
+# flick 20250422025738-Ssod
