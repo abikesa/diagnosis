@@ -53,3 +53,4 @@ Do not attempt compilation.
 # flick 20250422020340-JoBA
 # flick 20250422021138-Sv6S
 # flick 20250422021317-bTk0
+# flick 20250422025736-fvTe
